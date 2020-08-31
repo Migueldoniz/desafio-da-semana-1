@@ -1,0 +1,18 @@
+#t2 {
+    color: red;
+    margin: 20px 190px 20px 190px;
+    padding:inherit;
+}
+#t3 {
+    color: blue;
+}
+.fundo{
+    background-color: yellow;
+}
+p1{
+    color: black;
+    font-style: oblique;
+}
+.aligcenter{
+    margin: 1px 100px 1px 420px
+}
